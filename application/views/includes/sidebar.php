@@ -25,7 +25,7 @@
                     <div class="sb-sidenav-menu-heading">MENU</div>
                     <a class="nav-link <?php if ($selected == "students") {
                                             echo "active";
-                                        } ?>" href="<?php echo base_url(); ?>">
+                                        } ?>" href="<?php echo base_url(); ?>dashboard">
                         <div class="sb-nav-link-icon"><i class="fas fa-user-graduate" style="color: white;"></i>
                             Öğrenciler
                         </div>
